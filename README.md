@@ -61,4 +61,4 @@ In the ancient era, Captain Pounce was revered as a symbol of patience and charm
 
 ## License
 
-Open source - Feel free to use and modify!
+This project is licensed under the [MIT License](LICENSE)
