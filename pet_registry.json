@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Princess Clawfur",
+    "pet_type": "cat",
+    "personality": "curious",
+    "quirks": [
+      "sleeps in sink",
+      "attacks feet"
+    ],
+    "lore": "Born from a star storm, Princess Clawfur carries the essence of patience within their soul.",
+    "created_at": "2025-04-15T18:49:04.279165"
+  },
+  {
+    "name": "Hufffrowns",
+    "pet_type": "bird",
+    "personality": "grumpy",
+    "quirks": [
+      "mimics phone ring",
+      "dances to jazz"
+    ],
+    "lore": "Whispered among the mountain sages, Hufffrowns is said to possess the rare ability to see the future when the lunar eclipse occurs.",
+    "created_at": "2025-04-15T18:49:12.547125"
+  }
+]
